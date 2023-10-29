@@ -1,4 +1,4 @@
-# Advanced-Programming Fall 2020
+# Advanced-Programming Fall 2023
 
-Under supervision of [E. Edalat](https://ce.aut.ac.ir/~edalat)<br>
+Under supervision of [Prof. F. Ziaeetabar](https://www.researchgate.net/profile/Fatemeh-Ziaeetabar)<br>
 [Computer Engineering Department](https://ceit.aut.ac.ir/) of [Amirkabir University of Technology](https://aut.ac.ir/).
